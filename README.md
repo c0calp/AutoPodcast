@@ -154,6 +154,7 @@ If you see: `"Using fallback summarization"`
 
 ### Link to Github repo
 
+https://github.com/c0calp/AutoPodcast
 
 
 
